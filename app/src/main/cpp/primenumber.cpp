@@ -5,6 +5,7 @@
 #include "primenumber.h"
 primenumber::primenumber(int a) {
     primenumber::ab=a;
+    
 }
 bool primenumber::isprime() {
     bool isprime= true;
